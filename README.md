@@ -1,5 +1,6 @@
 # Initialize constants ---------------------------------------------------------
-
+## Thats me
+# ***SUPER FATHER***
 OPERATIONS = {'e':(1,"Encrypted"), 'd':(-1,"Decrypted")}
 
 # Min and limit ordinals of printable ASCII
